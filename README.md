@@ -22,6 +22,12 @@
 
 将Crack文件夹的[Gem Menu for OneNote.zip](https://github.com/dcncy/GemMenu-For-Mac-Crack/tree/main/Crack)解压直接覆盖源程序的执行文件即可。
 
+> 或者去百度云盘下载
+
+```basic
+链接: https://pan.baidu.com/s/1zUik7GI4Nmbi6Art_QFlPg  密码: shft
+```
+
 ### 2.注册过程
 
 将破解后的程序直接覆盖源程序。
