@@ -6,21 +6,27 @@
 > 参考教程：https://www.jianshu.com/p/a6b8fda514b7
 > 所需工具都准备如下。
 
-- GEM安装包：我使用的是目前官方最新版（MacONGemMenu-14.0.0.104.pkg）。
+- GEM安装包：该版本是14.0.0.104（MacONGemMenu-14.0.0.104.pkg）。
 
-  在Resources文件夹下有[MacONGemMenu-14.0.0.104.pkg](https://github.com/dcncy/GemMenu-For-Mac-Crack/tree/main/Crack)。
+  在Resources文件夹下有[MacONGemMenu-14.0.0.104.pkg](https://github.com/dcncy/GemMenu-For-Mac-Crack/tree/main/Crack)
 
-- Hopper Disassembler：下载官网版本就行。不需要破解版。下载地址：https://www.hopperapp.com/download.html。
+- Hopper Disassembler：下载官网版本就行。不需要破解版。下载地址：https://www.hopperapp.com/download.html
 
-  在Resources文件夹下准备的也有[Hopper Disassembler](https://github.com/dcncy/GemMenu-For-Mac-Crack/tree/main/Resources)。
+  在Resources文件夹下准备的也有[Hopper Disassembler](https://github.com/dcncy/GemMenu-For-Mac-Crack/tree/main/Resources)
 
-- 010 Editor十六进制编辑器：使用破解版。互联网资源下载地址：https://macwk.com/soft/010-editor。
+- 010 Editor十六进制编辑器：使用破解版。互联网资源下载地址：https://macwk.com/soft/010-editor
 
-  在Resources文件夹下准备的也有[010 Editor](https://github.com/dcncy/GemMenu-For-Mac-Crack/tree/main/Resources)。
+  在Resources文件夹下准备的也有[010 Editor](https://github.com/dcncy/GemMenu-For-Mac-Crack/tree/main/Resources)
 
 #### 1.2第二种方式：直接使用将我已破解好的。
 
 将Crack文件夹的[Gem Menu for OneNote.zip](https://github.com/dcncy/GemMenu-For-Mac-Crack/tree/main/Crack)解压直接覆盖源程序的执行文件即可。
+
+> 或者去百度云盘下载
+
+```basic
+链接: https://pan.baidu.com/s/1bsC8xLIhhokJ43n2o5xWZA  密码: fjju
+```
 
 ### 2.注册过程
 
