@@ -8,7 +8,7 @@
 
 - GEM安装包：我使用的是目前官方最新版（MacONGemMenu-14.6.0.129.pkg）。
 
-  在Resources文件夹下有[MacONGemMenu-14.0.0.104.pkg](https://github.com/dcncy/GemMenu-For-Mac-Crack/tree/main/Crack)
+  在Resources文件夹下有[MacONGemMenu-14.6.0.129.pkg](https://github.com/dcncy/GemMenu-For-Mac-Crack/tree/main/Crack)
 
 - Hopper Disassembler：下载官网版本就行。不需要破解版。下载地址：https://www.hopperapp.com/download.html
 
