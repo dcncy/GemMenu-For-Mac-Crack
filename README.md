@@ -42,7 +42,7 @@
 
 ![1-1](https://github.com/dcncy/GemMenu-For-Mac-Crack/blob/main/Imgs/1-1.png)
 
-然后所以输入注册码即可成功。
+然后随便输入注册码即可成功。
 
 ![1-2](https://github.com/dcncy/GemMenu-For-Mac-Crack/blob/main/Imgs/1-2.png)
 
