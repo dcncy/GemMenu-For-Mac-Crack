@@ -40,15 +40,15 @@
 
 将破解后的程序直接覆盖源程序。
 
-![1-1](https://github.com/dcncy/GemMenu-For-Mac-Crack/blob/main/Imgs/1-1.png)
+![1-1](https://github.com/dcncy/GemMenu-For-Mac-Crack/blob/Version_14.6.0.129/Imgs/1-1.png)
 
 然后所以输入注册码即可成功。
 
-![1-2](https://github.com/dcncy/GemMenu-For-Mac-Crack/blob/main/Imgs/1-2.png)
+![1-2](https://github.com/dcncy/GemMenu-For-Mac-Crack/blob/Version_14.6.0.129/Imgs/1-2.png)
 
 点击帮助-关于，查看注册信息。
 
-![1-3](https://github.com/dcncy/GemMenu-For-Mac-Crack/blob/main/Imgs/1-3.png)
+![1-3](https://github.com/dcncy/GemMenu-For-Mac-Crack/blob/Version_14.6.0.129/Imgs/1-3.png)
 
 
 
